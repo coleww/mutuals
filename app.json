@@ -1,0 +1,7 @@
+{
+  "name": "mutuals",
+  "description": "a blockbot for twitter",
+  "repository": "https://github.com/coleww/mutuals",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["twitter", "block", "bot"]
+}
