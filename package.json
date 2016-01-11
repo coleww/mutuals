@@ -17,5 +17,13 @@
   },
   "devDependencies": {
     "tap": "^5.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coleww/mutuals.git"
+  },
+  "bugs": {
+    "url": "https://github.com/coleww/mutuals/issues"
+  },
+  "homepage": "https://github.com/coleww/mutuals#readme"
 }
