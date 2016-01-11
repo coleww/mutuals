@@ -1,0 +1,21 @@
+{
+  "name": "mutuals",
+  "version": "1.0.0",
+  "description": "a blockbot for twitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "keywords": [
+    "twitter",
+    "block"
+  ],
+  "author": "Cole Willsea <coleww@gmail.com> (http://colewillsea.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "twit": "^2.1.1"
+  },
+  "devDependencies": {
+    "tap": "^5.0.1"
+  }
+}
