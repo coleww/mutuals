@@ -3,5 +3,15 @@
   "description": "a blockbot for twitter",
   "repository": "https://github.com/coleww/mutuals",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "addons": [
+    "scheduler:standard"
+  ],
+  "env": {
+    // maybe use this to set example configs?
+    // "WEB_CONCURRENCY": {
+    //   "description": "The number of processes to run.",
+    //   "value": "5"
+    // }
+  },
   "keywords": ["twitter", "block", "bot"]
 }
