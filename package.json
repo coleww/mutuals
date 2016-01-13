@@ -4,7 +4,7 @@
   "description": "a blockbot for twitter",
   "main": "index.js",
   "scripts": {
-    "test": "test.js"
+    "test": "standard && node test.js"
   },
   "keywords": [
     "twitter",
@@ -22,6 +22,7 @@
     "wordfilter": "^0.2.6"
   },
   "devDependencies": {
+    "standard": "^5.4.1",
     "tap": "^5.0.1"
   },
   "repository": {

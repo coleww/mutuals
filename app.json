@@ -2,16 +2,27 @@
   "name": "mutuals",
   "description": "a blockbot for twitter",
   "repository": "https://github.com/coleww/mutuals",
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
   "addons": [
-    "scheduler:standard"
+    "scheduler:standard",
+    "mongolab"
   ],
   "env": {
-    // maybe use this to set example configs?
-    // "WEB_CONCURRENCY": {
-    //   "description": "The number of processes to run.",
-    //   "value": "5"
-    // }
+    "consumer_key": {
+      "description": "API keys for your twitter account",
+      "value": "SPIDERS!!!!!!!!!!!!!!"
+    },
+    "consumer_secret": {
+      "description": "API keys for your twitter account",
+      "value": "SPIDERS!!!!!!!!!!!!!!"
+    },
+    "access_token": {
+      "description": "API keys for your twitter account",
+      "value": "SPIDERS!!!!!!!!!!!!!!"
+    },
+    "access_token_secret": {
+      "description": "API keys for your twitter account",
+      "value": "SPIDERS!!!!!!!!!!!!!!"
+    }
   },
   "keywords": ["twitter", "block", "bot"]
 }
