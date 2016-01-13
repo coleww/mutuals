@@ -15,7 +15,6 @@
   "dependencies": {
     "iscool": "^1.1.17",
     "mongodb": "^2.1.4",
-    "pg": "^4.4.3",
     "sentiment": "^1.0.4",
     "this-is-probably-ok-to-say": "^1.0.9",
     "twit": "^2.1.1",
